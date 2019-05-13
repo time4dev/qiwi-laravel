@@ -14,11 +14,13 @@
   ],
   "require": {
     "php": "^7.1.0",
-    "qiwi/bill-payments-php-sdk": "^0.1.0"
+    "qiwi/bill-payments-php-sdk": "^0.1.0",
+    "illuminate/support": "^5.8.0",
+    "symfony/var-dumper": "*"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.5",
-    "phpunit/phpunit-mock-objects": "2.3.0"
+    "phpunit/phpunit-mock-objects": "~2.3.0"
   },
   "autoload": {
     "psr-4": {"Qiwi\\": "src/"}
