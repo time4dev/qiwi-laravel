@@ -5,6 +5,7 @@
   "homepage": "https://github.com/CasparOne/qiwi-laravel",
   "type": "library",
   "license": "MIT",
+  "version": "5.0.0",
   "authors": [
     {
       "name": "Victor Volodin",
