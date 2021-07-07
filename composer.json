@@ -14,9 +14,8 @@
     }
   ],
   "require": {
-    "php": "^7.*|^8.*",
+    "php": "^7.1|^8.0",
     "qiwi/bill-payments-php-sdk": "^0.1.0",
-    "illuminate/support": "^8",
     "symfony/var-dumper": "*"
   },
   "require-dev": {
