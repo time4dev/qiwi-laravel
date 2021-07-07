@@ -1,5 +1,5 @@
 {
-  "name": "casparone/qiwi-laravel",
+  "name": "time4dev/qiwi-laravel",
   "description": "Wrapper for QIWI payment SDK for Laravel 5",
   "keywords": ["qiwi", "payments", "processing", "qiwi sdk", "php", "merchant"],
   "homepage": "https://github.com/CasparOne/qiwi-laravel",
